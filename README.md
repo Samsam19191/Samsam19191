@@ -39,5 +39,5 @@ I'm a **4th-year Computer Science student** at [INSA Lyon](https://www.insa-lyon
 ## 📫 Let's Connect!
 
 <a href="https://www.linkedin.com/in/sami-taider-b69333231/"><img align="left" src="https://github.com/Samsam19191/Samsam19191/blob/main/images/linkedIn.svg" alt="Sami Taider | LinkedIn" width="30px"/></a>
-<a href="https://www.instagram.com/____samyy__/"><img align="left" src="https://github.com/Samsam19191/Samsam19191/blob/main/images/instagram.svg" alt="@____samyy__" width="30px"/></a><br/>
-<a href="mailto:taidersami1@gmail.com"><img align="left" src="https://github.com/Samsam19191/Samsam19191/blob/main/images/gmail.png" alt="taidersami1@gmail.com" width="30px"/></a><br/>
+<a href="https://www.instagram.com/____samyy__/"><img align="left" src="https://github.com/Samsam19191/Samsam19191/blob/main/images/instagram.svg" alt="@____samyy__" width="30px"/></a>
+<a href="mailto:taidersami1@gmail.com"><img align="left" src="https://github.com/Samsam19191/Samsam19191/blob/main/images/gmail.svg" alt="taidersami1@gmail.com" width="30px"/></a>
