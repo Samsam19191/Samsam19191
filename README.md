@@ -1,6 +1,6 @@
 # Hi, I'm Sami! 👋
 
-I'm a **4th-year Computer Science student** at [INSA Lyon](https://www.insa-lyon.fr), currently studying abroad at **Galatasaray University** in Istanbul. I'm passionate about **software development**, **AI** and **machine learning**. I love exploring new technologies and building innovative projects!
+I'm a **5th-year Computer Science student** at [INSA Lyon](https://www.insa-lyon.fr). I'm passionate about **software development**, **AI** and **machine learning**. I love exploring new technologies and building innovative projects!
 
 ---
 
