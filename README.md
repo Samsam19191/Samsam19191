@@ -27,10 +27,10 @@
 
 ## 🚀 Featured Projects  
 
-🔹 **[erudi](#)** – Co-founded a no-code SaaS for fine-tuning and deploying local LLMs (FastAPI + React + Electron)  
-🔹 **[NLP Dimensionality Reduction](#)** – Compressed French word embeddings with Autoencoders + Word2Vec  
-🔹 **[GoodReads Knowledge Graph](#)** – Neo4j graph enriched with LLM semantic relations + DBpedia integration  
-🔹 **[Federated Learning for Urban Heat Islands](#)** – PyTorch-based federated model to detect climate patterns  
+🔹 **[erudi](https://erudi.app)** – Co-founded a no-code SaaS for fine-tuning and deploying local LLMs (FastAPI + React + Electron)  
+🔹 **NLP Dimensionality Reduction** – Compressed French word embeddings with Autoencoders + Word2Vec  
+🔹 **GoodReads Knowledge Graph** – Neo4j graph enriched with LLM semantic relations + DBpedia integration  
+🔹 **Federated Learning for Urban Heat Islands** – PyTorch-based federated model to detect climate patterns  
 
 ---
 
