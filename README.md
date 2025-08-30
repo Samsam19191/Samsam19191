@@ -1,43 +1,56 @@
-# Hi, I'm Sami! 👋
-
-I'm a **5th-year Computer Science student** at [INSA Lyon](https://www.insa-lyon.fr). I'm passionate about **software development**, **AI** and **machine learning**. I love exploring new technologies and building innovative projects!
-
----
-
-## 💻 Tech Stack
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### Frontend Development
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+<!-- Header -->
+<h1 align="center">Hi, I'm Sami 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=550&lines=AI+Engineer;Machine+Learning+%26+NLP+Enthusiast;LLMs+%7C+Data+Science;Always+Learning+%26+Building" alt="Typing animation" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
+## 🧑‍💻 About Me  
 
-<a href="https://www.linkedin.com/in/sami-taider-b69333231/"><img align="left" src="https://github.com/Samsam19191/Samsam19191/blob/main/images/linkedIn.svg" alt="Sami Taider | LinkedIn" height="30px"/></a>
-<a href="https://www.instagram.com/____samyy__/"><img align="left" src="https://github.com/Samsam19191/Samsam19191/blob/main/images/instagram.svg" alt="@____samyy__" height="30px"/></a>
-taidersami1@gmail.com
+- 🎓 Computer Science Engineering student @ **INSA Lyon**  
+- 🤖 Focused on **AI, NLP, and Large Language Models**  
+- 🔬 Experience with **data science, applied ML, and MLOps**  
+- 🥊 Outside of tech: boxing trainer & football club player  
+
+---
+
+## ⚡ Research & Technical Interests  
+
+- 🧠 **Natural Language Processing** (word embeddings, transformers, prompt engineering)  
+- 📚 **Large Language Models** (fine-tuning, local deployment, evaluation)  
+- 🌍 **Knowledge Graphs** & reasoning with structured + unstructured data  
+- 🔄 **Federated Learning** & privacy-preserving ML  
+- ⚙️ **MLOps** for scaling ML systems from prototype to production  
+
+---
+
+## 🚀 Featured Projects  
+
+🔹 **[erudi](#)** – Co-founded a no-code SaaS for fine-tuning and deploying local LLMs (FastAPI + React + Electron)  
+🔹 **[NLP Dimensionality Reduction](#)** – Compressed French word embeddings with Autoencoders + Word2Vec  
+🔹 **[GoodReads Knowledge Graph](#)** – Neo4j graph enriched with LLM semantic relations + DBpedia integration  
+🔹 **[Federated Learning for Urban Heat Islands](#)** – PyTorch-based federated model to detect climate patterns  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Core Languages**  
+`Python` `C++` `Java` `SQL`  
+
+**AI / Data Science**  
+`PyTorch` `LangChain` `LLMs` `NLP` `Word2Vec` `Pandas` `Matplotlib`  
+
+**Data Engineering & Tools**  
+`Dataiku` `LangFlow` `FastAPI` `Docker` `Git` `Linux` `AWS` `Azure` `Neo4j`  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Sami-Taider-b69333231/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:taidersami1@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Samsam19191"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
