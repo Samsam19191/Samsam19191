@@ -43,7 +43,7 @@
 `PyTorch` `LangChain` `LLMs` `NLP` `Word2Vec` `Pandas` `Matplotlib`  
 
 **Data Engineering & Tools**  
-`Dataiku` `LangFlow` `FastAPI` `Docker` `Git` `Linux` `AWS` `Azure` `Neo4j`  
+`Dataiku` `LangFlow` `FastAPI` `Docker` `Git` `Linux` `Neo4j`  
 
 ---
 
