@@ -17,7 +17,7 @@
 
 ## ⚡ Research & Technical Interests  
 
-- 🧠 **Natural Language Processing** (word embeddings, transformers, prompt engineering)  
+- 🧠 **Natural Language Processing** (word embeddings, transformers, prompt & context engineering)  
 - 📚 **Large Language Models** (fine-tuning, local deployment, evaluation)  
 - 🌍 **Knowledge Graphs** & reasoning with structured + unstructured data  
 - 🔄 **Federated Learning** & privacy-preserving ML  
