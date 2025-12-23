@@ -11,7 +11,7 @@
 - 🎓 Computer Science Engineering student @ **INSA Lyon**  
 - 🤖 Focused on **AI, NLP, and Large Language Models**  
 - 🔬 Experience with **data science, applied ML, and MLOps**  
-- 🥊 Outside of tech: boxing trainer & football club player  
+- 🥊 Outside of tech: boxing & football club player  
 
 ---
 
