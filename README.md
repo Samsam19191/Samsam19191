@@ -4,6 +4,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samsam19191&show_icons=true&hide_border=true&count_private=true&theme=dark&hide=stars)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsam19191&layout=compact&hide_border=true&theme=dark)
+![snake animation](https://raw.githubusercontent.com/Samsam19191/Samsam19191/output/snake-dark.svg)
